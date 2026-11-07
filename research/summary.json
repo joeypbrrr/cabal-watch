@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-11-07T04:58:14-05:00",
+  "monitor_running": false,
+  "monitor_pid": null,
+  "common_owner_wallet_found": false,
+  "coge_mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
+  "democat_candidate_mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
+  "democat_confirmed_as_joey_position": false,
+  "coach_confirmed": false,
+  "screenshot_matches": [
+    "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
+    "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+    "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+    "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+    "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7"
+  ],
+  "funding_edges": 9,
+  "shared_service_funders": [
+    "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w"
+  ],
+  "current_holder_overlap_coge_democat": [],
+  "limitations": [
+    "Public Solana getTokenLargestAccounts returned 429. Official Bubblemaps and independent bubblemaps.dev returned 401. No keys accessed.",
+    "CloudAgent is unavailable to this executor; required code implementation must be delegated by parent. Static research snapshots only.",
+    "First 100 swaps, exact synchronized buy sizes, all 63 cluster addresses and common entity attribution remain unverified.",
+    "No transactions signed/sent; no trades, positions or existing loops modified."
+  ]
+}

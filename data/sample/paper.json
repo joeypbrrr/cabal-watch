@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-01-01T12:00:00-05:00",
+  "timezone": "America/New_York",
+  "status": "example",
+  "example": true,
+  "note": "FICTIONAL EXAMPLE. Not a real wallet, mint, or measurement. Not the research snapshot.",
+  "paper": [],
+  "model": {
+    "basis": "market_cap_return_gross_proxy_not_executable_pnl",
+    "formula": "(checkpoint_mcap / entry_mcap - 1) * 100",
+    "horizons_minutes": [
+      15,
+      60,
+      360
+    ],
+    "fees_slippage_included": false
+  },
+  "warning": "Example only. No simulated fills."
+}

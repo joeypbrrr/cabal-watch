@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-01-01T12:00:00-05:00",
+  "timezone": "America/New_York",
+  "status": "example",
+  "example": true,
+  "note": "FICTIONAL EXAMPLE. Not a real wallet, mint, or measurement. Not the research snapshot.",
+  "tokens": [
+    {
+      "mint": "EXAMPLECASH111111111111111111111111111111111",
+      "symbol": "EXAMPLE",
+      "as_of": "2026-01-01T12:00:00-05:00",
+      "holders": [
+        {
+          "address": "EXAMPLEWALLET1111111111111111111111111111111",
+          "pct_supply": 1.0,
+          "cluster_id": null,
+          "reported_cluster_id": "example-cluster"
+        }
+      ],
+      "links": [
+        {
+          "source": "EXAMPLEHUB1111111111111111111111111111111111",
+          "target": "EXAMPLEWALLET1111111111111111111111111111111",
+          "kind": "first_inbound_SOL",
+          "amount_sol": 1.0,
+          "time": "2026-01-01T12:00:00-05:00",
+          "signature": null,
+          "same_owner_proven": false
+        }
+      ],
+      "source": "example",
+      "cluster_verified": false
+    }
+  ],
+  "requested_refresh_seconds": 1800,
+  "warning": "Example only. Exchange links are not an ownership cluster."
+}
