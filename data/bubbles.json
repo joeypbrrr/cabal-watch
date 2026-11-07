@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T04:58:14-05:00",
+  "updated_at": "2026-11-07T05:40:24-05:00",
   "timezone": "America/New_York",
-  "status": "snapshot_only_monitor_not_running",
+  "status": "monitor_running",
   "tokens": [
     {
       "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
       "symbol": "COGE",
-      "as_of": "2026-11-07T04:55:57-05:00",
+      "as_of": "2026-11-07T05:40:25-05:00",
       "holders": [
         {
           "address": "5PWa4xrVzNZr7eDPKany9mwdRCNk18jw3Yp6NTDRc4tK",
@@ -177,7 +177,7 @@
     {
       "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
       "symbol": "Democat",
-      "as_of": "2026-11-07T04:56:10-05:00",
+      "as_of": "2026-11-07T05:40:26-05:00",
       "holders": [
         {
           "address": "GGHJfHWsmcQhcpVHH8tY82K9AALivKo595cRTyTYQsLs",
@@ -300,5 +300,5 @@
     }
   ],
   "requested_refresh_seconds": 1800,
-  "warning": "cluster_id=null until a graph reconstruction verifies it; reported_cluster_id is from screenshot partial-address matches. Funding links to CEXs must not be rendered as ownership clusters."
+  "warning": "cluster_id stays null until ownership is verified. Exchange and busy-wallet links are not an ownership cluster. Holder rows are the top accounts, not all 63 screenshot wallets."
 }

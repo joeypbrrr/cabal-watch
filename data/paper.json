@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T04:58:14-05:00",
+  "updated_at": "2026-11-07T05:40:23-05:00",
   "timezone": "America/New_York",
-  "status": "snapshot_only_monitor_not_running",
+  "status": "monitor_running",
   "paper": [],
   "model": {
     "basis": "market_cap_return_gross_proxy_not_executable_pnl",
@@ -14,5 +14,5 @@
     ],
     "fees_slippage_included": false
   },
-  "warning": "No synthetic fills or historical alert-time entries were created."
+  "warning": "Simulated market-cap change only. No orders are sent."
 }
