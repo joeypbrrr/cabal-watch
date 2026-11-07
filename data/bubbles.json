@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T12:04:52-05:00",
+  "updated_at": "2026-11-07T14:23:29-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "tokens": [
     {
       "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
       "symbol": "COGE",
-      "as_of": "2026-11-07T12:04:53-05:00",
+      "as_of": "2026-11-07T14:23:30-05:00",
       "holders": [
         {
           "address": "5PWa4xrVzNZr7eDPKany9mwdRCNk18jw3Yp6NTDRc4tK",
@@ -177,7 +177,7 @@
     {
       "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
       "symbol": "Democat",
-      "as_of": "2026-11-07T12:04:54-05:00",
+      "as_of": "2026-11-07T14:23:31-05:00",
       "holders": [
         {
           "address": "GGHJfHWsmcQhcpVHH8tY82K9AALivKo595cRTyTYQsLs",
