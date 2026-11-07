@@ -1,0 +1,304 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-07T04:58:14-05:00",
+  "timezone": "America/New_York",
+  "status": "snapshot_only_monitor_not_running",
+  "tokens": [
+    {
+      "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
+      "symbol": "COGE",
+      "as_of": "2026-11-07T04:55:57-05:00",
+      "holders": [
+        {
+          "address": "5PWa4xrVzNZr7eDPKany9mwdRCNk18jw3Yp6NTDRc4tK",
+          "pct_supply": 0.8971,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "FYUXYHg2DSigsSiQodXZpFuqG6AM41e75jhkfhdupyGJ",
+          "pct_supply": 0.8875,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "CiUgsxBvx9ZuQeQsXKXykiYSip4daqfdczeEtYMEMxr2",
+          "pct_supply": 0.8814,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "FR5Z3YKXmaiXUtZoddvCPBfYLT8TjxmHZe8ifz9dVF1A",
+          "pct_supply": 0.8785,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "8FtkU7T3PPHzA82G4oDzoug3V9qvYKyX6b2Sv3m3SiJj",
+          "pct_supply": 0.8514,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "9hW8QXn3yAjRUAjuuq85jSNHUqzUWbf5oXwjppCSiwkR",
+          "pct_supply": 0.8498,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
+          "pct_supply": 0.8466,
+          "cluster_id": null,
+          "reported_cluster_id": "coge-screenshot-1"
+        },
+        {
+          "address": "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+          "pct_supply": 0.8454,
+          "cluster_id": null,
+          "reported_cluster_id": "coge-screenshot-1"
+        },
+        {
+          "address": "81z5et23bdypHwGeWhZv3c2Ebzt45cQVEfpVEVzMQvK4",
+          "pct_supply": 0.8451,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+          "pct_supply": 0.8363,
+          "cluster_id": null,
+          "reported_cluster_id": "coge-screenshot-1"
+        },
+        {
+          "address": "7r8Y7inTWiET6aXcT2RoSDNNdAVBmRfBcL5NK2begPdC",
+          "pct_supply": 0.8347,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "2B8VspBv9Zt5DTHzE87nqPXVZtJqpz3QyqUSVXb7mgfB",
+          "pct_supply": 0.83,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+          "pct_supply": 0.8203,
+          "cluster_id": null,
+          "reported_cluster_id": "coge-screenshot-1"
+        },
+        {
+          "address": "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
+          "pct_supply": 0.8143,
+          "cluster_id": null,
+          "reported_cluster_id": "coge-screenshot-1"
+        },
+        {
+          "address": "HVfk4hRzsvvDfxBYXFvGasJkufyiEtFq8T7ktgMC3B1w",
+          "pct_supply": 0.8063,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "79H2eRaeHiy3hAewied1UcYWaQts3TYqaspkiUstb5DP",
+          "pct_supply": 0.8049,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "AAhsJqbmECcapgxbha54paqLzSCQQNUrPFhtX1LUyjrV",
+          "pct_supply": 0.801,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "9H27QM8fo4UJa3J4aCgtEdRN424eB6KvGNNYsuUsbn14",
+          "pct_supply": 0.7977,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "GfdDDAdMKcN7rakwxEr3sbq66845FQeG61SSY1MHzXhS",
+          "pct_supply": 0.788,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        }
+      ],
+      "links": [
+        {
+          "source": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
+          "target": "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
+          "kind": "first_inbound_SOL",
+          "amount_sol": 0.127394,
+          "time": "2026-10-16T13:38:10-04:00",
+          "signature": "4hFik2mHVRA321iT2wZFex3DZzxzHzMztsLdet1CwxYkZJRpKCVrqAzarGcsfcBRNGBw86r8ZvP8e4FPEpAwNr3m",
+          "same_owner_proven": false
+        },
+        {
+          "source": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+          "target": "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
+          "kind": "first_inbound_SOL",
+          "amount_sol": 0.24755,
+          "time": "2026-10-27T14:04:42-04:00",
+          "signature": "5WCnHD2CbCMUPNdsfr5VPbbARGJV81FmNgamqkFrBLCF9yTbHgtMUHGm7YRz73ocaEm4riP1GKitdB64hLFggPXZ",
+          "same_owner_proven": false
+        },
+        {
+          "source": "ABNL41SwMLVRaCq6okEWsWyvLwm56nazUNwMrTHgmuyf",
+          "target": "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+          "kind": "first_inbound_SOL",
+          "amount_sol": 0.10190483,
+          "time": "2026-10-16T23:54:28-04:00",
+          "signature": "2WDFqpDvtzn85YaHjTaVgF8r3WrE9c7Dip9NizCSVNgkFFTA5auAXFxGCfWciYDy3v2rwyx1kYtcyb1vjEcKcvNX",
+          "same_owner_proven": false
+        },
+        {
+          "source": "AaZkwhkiDStDcgrU37XAj9fpNLrD8Erz5PNkdm4k5hjy",
+          "target": "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+          "kind": "first_inbound_SOL",
+          "amount_sol": 0.10916893,
+          "time": "2026-10-17T02:55:55-04:00",
+          "signature": "41m9EQ2F9RazUYJLVXzKWdCazc9ZoH1LA122rSBkg1QqiUzWVuMoNqxyoBAqF2PuFZqYcyzKV6gqbKKfKNSGffNf",
+          "same_owner_proven": false
+        },
+        {
+          "source": "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
+          "target": "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+          "kind": "first_inbound_SOL",
+          "amount_sol": 0.035556,
+          "time": "2026-10-16T16:08:25-04:00",
+          "signature": "3mkQiZbCM5dbEFqoauxLm2RBtXbqQnhuhfnkzeYNFk4L9QybrEHyQPAMM8fwQqM6c4z4f26VHbKxU6rWSdu6wzB7",
+          "same_owner_proven": false
+        }
+      ],
+      "source": "https://pumpdata.fun/holders/8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump.json",
+      "cluster_verified": false
+    },
+    {
+      "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
+      "symbol": "Democat",
+      "as_of": "2026-11-07T04:56:10-05:00",
+      "holders": [
+        {
+          "address": "GGHJfHWsmcQhcpVHH8tY82K9AALivKo595cRTyTYQsLs",
+          "pct_supply": 2.1143,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "F9vwcBVXBwgZQr1Wmh4iaPajCBx6Xxq6EnKbHZtPpWP8",
+          "pct_supply": 1.7399,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "FoyQKCRrFckBWsUr85sJYPZARuDdBUBH7nao8ExWjLWW",
+          "pct_supply": 1.6317,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "HgWdcArhyN29kzHrjNqrRm5c9yX9a73DA7faz8tXZBN1",
+          "pct_supply": 1.0976,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "J147yU2sBUxXbNAAcAuX3s2Kb1DEJtQj2iM2cXQdQBxH",
+          "pct_supply": 1.0463,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "J8FBiVc2ppg644AvinAaesaNmYkfijjweoxYBYsVQY8q",
+          "pct_supply": 0.7927,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "8CtTwJizWDHymtMiuqxFAiFWw8fWtP3dxJDt8hFeHh3a",
+          "pct_supply": 0.681,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "FpKiNUVXqa6mtWiFYmYvshMEptUJiMUtpoaNmjzhYB9o",
+          "pct_supply": 0.503,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "Aoa8zSwKiqjDcbV21GPtGa96i2PZcJ2NraKCTajDnaJg",
+          "pct_supply": 0.4577,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "31WxmD2rviBXJhqVQjttdZoiVJEn6vdQ3XBkd1cKfzbN",
+          "pct_supply": 0.3724,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "HGJDWi55y1FP1n8tB7BFfti7oeVvMoqp7yCgHPHoF1xv",
+          "pct_supply": 0.3408,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "7PEPKwmVpJnD6nooX6r22yrZZWXNgewy7ESEntrkbYmd",
+          "pct_supply": 0.2763,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "HtupjZKQxTGZzmJtoWNHQPncM9MwjBm7V49DLqMf4KKA",
+          "pct_supply": 0.1633,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "EysLmoEawWMJBnvQ9RzdH337znsvQKLWJEV4zDinUNeu",
+          "pct_supply": 0.1222,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "Ft5vnnB4XsoSdsXNxjq987KK7h2nweKptWgMp7Asudsy",
+          "pct_supply": 0.1194,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "Exj8dN4Xm5e5r4QWNN3LtqPmsS555d9Yc39iGsjBBkQv",
+          "pct_supply": 0.1004,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "AbVChoPk7xWRZFvbNhQPLXVmnZEqQXai1VUmN4aXHieD",
+          "pct_supply": 0.0973,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "9T5PTe1P634n8Zi67DTGc6b1BUaW1AP64NTJDqYGcc6d",
+          "pct_supply": 0.0966,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "6aevV9Z4M2r567Tb54XUu88KS3JyXjrtFUq1xEmJ5z9o",
+          "pct_supply": 0.0915,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        }
+      ],
+      "links": [],
+      "source": "https://pumpdata.fun/holders/9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump.json",
+      "cluster_verified": false
+    }
+  ],
+  "requested_refresh_seconds": 1800,
+  "warning": "cluster_id=null until a graph reconstruction verifies it; reported_cluster_id is from screenshot partial-address matches. Funding links to CEXs must not be rendered as ownership clusters."
+}
