@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-07T04:58:14-05:00",
+  "timezone": "America/New_York",
+  "status": "snapshot_only_monitor_not_running",
+  "paper": [],
+  "model": {
+    "basis": "market_cap_return_gross_proxy_not_executable_pnl",
+    "formula": "(checkpoint_mcap / entry_mcap - 1) * 100",
+    "horizons_minutes": [
+      15,
+      60,
+      360
+    ],
+    "fees_slippage_included": false
+  },
+  "warning": "No synthetic fills or historical alert-time entries were created."
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-01-01T12:00:00-05:00",
+  "timezone": "America/New_York",
+  "status": "example",
+  "example": true,
+  "note": "FICTIONAL EXAMPLE. Not a real wallet, mint, or measurement. Not the research snapshot.",
+  "transactions": [],
+  "as_of": "2026-01-01T12:00:00-05:00",
+  "coverage": {
+    "wallets_queried": [
+      "EXAMPLEWALLET1111111111111111111111111111111"
+    ],
+    "since": "2026-01-01T12:00:00-05:00",
+    "retention_start": "2026-01-01T12:00:00-05:00",
+    "pumpfun_and_pumpswap_only": true,
+    "api_returned_count": 0,
+    "more": false
+  }
+}

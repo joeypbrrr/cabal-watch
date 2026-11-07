@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-07T04:58:14-05:00",
+  "timezone": "America/New_York",
+  "status": "snapshot_only_monitor_not_running",
+  "edges": [
+    {
+      "funder": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
+      "wallet": "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
+      "amount_sol": 0.127394,
+      "time": "2026-10-16T13:38:10-04:00",
+      "slot": 457723420,
+      "signature": "4hFik2mHVRA321iT2wZFex3DZzxzHzMztsLdet1CwxYkZJRpKCVrqAzarGcsfcBRNGBw86r8ZvP8e4FPEpAwNr3m",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7/funding.json",
+      "tx_url": "https://solscan.io/tx/4hFik2mHVRA321iT2wZFex3DZzxzHzMztsLdet1CwxYkZJRpKCVrqAzarGcsfcBRNGBw86r8ZvP8e4FPEpAwNr3m",
+      "funder_label": "Gate Hot Wallet (u6PJ8)",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w"
+    },
+    {
+      "funder": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+      "wallet": "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
+      "amount_sol": 0.24755,
+      "time": "2026-10-27T14:04:42-04:00",
+      "slot": 462165391,
+      "signature": "5WCnHD2CbCMUPNdsfr5VPbbARGJV81FmNgamqkFrBLCF9yTbHgtMUHGm7YRz73ocaEm4riP1GKitdB64hLFggPXZ",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK/funding.json",
+      "tx_url": "https://solscan.io/tx/5WCnHD2CbCMUPNdsfr5VPbbARGJV81FmNgamqkFrBLCF9yTbHgtMUHGm7YRz73ocaEm4riP1GKitdB64hLFggPXZ",
+      "funder_label": "Binance 2",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9"
+    },
+    {
+      "funder": "ABNL41SwMLVRaCq6okEWsWyvLwm56nazUNwMrTHgmuyf",
+      "wallet": "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+      "amount_sol": 0.10190483,
+      "time": "2026-10-16T23:54:28-04:00",
+      "slot": 457894286,
+      "signature": "2WDFqpDvtzn85YaHjTaVgF8r3WrE9c7Dip9NizCSVNgkFFTA5auAXFxGCfWciYDy3v2rwyx1kYtcyb1vjEcKcvNX",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB/funding.json",
+      "tx_url": "https://solscan.io/tx/2WDFqpDvtzn85YaHjTaVgF8r3WrE9c7Dip9NizCSVNgkFFTA5auAXFxGCfWciYDy3v2rwyx1kYtcyb1vjEcKcvNX",
+      "funder_label": "SideShift: Hot Wallet",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/ABNL41SwMLVRaCq6okEWsWyvLwm56nazUNwMrTHgmuyf"
+    },
+    {
+      "funder": "AaZkwhkiDStDcgrU37XAj9fpNLrD8Erz5PNkdm4k5hjy",
+      "wallet": "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+      "amount_sol": 0.10916893,
+      "time": "2026-10-17T02:55:55-04:00",
+      "slot": 457944655,
+      "signature": "41m9EQ2F9RazUYJLVXzKWdCazc9ZoH1LA122rSBkg1QqiUzWVuMoNqxyoBAqF2PuFZqYcyzKV6gqbKKfKNSGffNf",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs/funding.json",
+      "tx_url": "https://solscan.io/tx/41m9EQ2F9RazUYJLVXzKWdCazc9ZoH1LA122rSBkg1QqiUzWVuMoNqxyoBAqF2PuFZqYcyzKV6gqbKKfKNSGffNf",
+      "funder_label": null,
+      "stop_reason": "busy",
+      "funder_label_source": null
+    },
+    {
+      "funder": "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
+      "wallet": "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+      "amount_sol": 0.035556,
+      "time": "2026-10-16T16:08:25-04:00",
+      "slot": 457765032,
+      "signature": "3mkQiZbCM5dbEFqoauxLm2RBtXbqQnhuhfnkzeYNFk4L9QybrEHyQPAMM8fwQqM6c4z4f26VHbKxU6rWSdu6wzB7",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF/funding.json",
+      "tx_url": "https://solscan.io/tx/3mkQiZbCM5dbEFqoauxLm2RBtXbqQnhuhfnkzeYNFk4L9QybrEHyQPAMM8fwQqM6c4z4f26VHbKxU6rWSdu6wzB7",
+      "funder_label": "Bybit Wallet 10",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu"
+    },
+    {
+      "funder": "8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU",
+      "wallet": "4QGjrEmADSUaNgusuERgQCeRFTTc5SWW5ssZfb5e9sZi",
+      "amount_sol": 0.07768,
+      "time": "2026-11-05T09:27:42-05:00",
+      "slot": 465738989,
+      "signature": "48dU8GzJYgEKZndD32DLGVassAzNk7B324xJC1A2i6ApiQp1JdanLbTcd4WdshwiXnEcWX7jT17yVbx4HYa9VoZE",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/4QGjrEmADSUaNgusuERgQCeRFTTc5SWW5ssZfb5e9sZi/funding.json",
+      "tx_url": "https://solscan.io/tx/48dU8GzJYgEKZndD32DLGVassAzNk7B324xJC1A2i6ApiQp1JdanLbTcd4WdshwiXnEcWX7jT17yVbx4HYa9VoZE",
+      "funder_label": "Binance Hot Wallet (8DfHu)",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/8DfHuYFv7VQ6wgcGtVDN2vtFn5ezF52hHNtPWYcqm8hU"
+    },
+    {
+      "funder": "6LY1JzAFVZsP2a2xKrtU6znQMQ5h4i7tocWdgrkZzkzF",
+      "wallet": "7tLjP2n1Fu9Ueum58QPwY1g9fruVHhVfaeov8c3GNEMC",
+      "amount_sol": 0.07368038,
+      "time": "2026-11-05T09:28:16-05:00",
+      "slot": 465739151,
+      "signature": "5kaDH1MrAdE8asaHq2gmCnduv7eU5yhfoiymYyZvwKmFuAh4tQJXULDMvdCvt84PUnqgt8VevKqHmkdQ8VWaQzSN",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/7tLjP2n1Fu9Ueum58QPwY1g9fruVHhVfaeov8c3GNEMC/funding.json",
+      "tx_url": "https://solscan.io/tx/5kaDH1MrAdE8asaHq2gmCnduv7eU5yhfoiymYyZvwKmFuAh4tQJXULDMvdCvt84PUnqgt8VevKqHmkdQ8VWaQzSN",
+      "funder_label": "Kraken Hot Wallet (6LY1J)",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/6LY1JzAFVZsP2a2xKrtU6znQMQ5h4i7tocWdgrkZzkzF"
+    },
+    {
+      "funder": "F7p3dFrjRTbtRp8FRF6qHLomXbKRBzpvBLjtQcfcgmNe",
+      "wallet": "GSj5ZX3MfcThqijyU6SaXnkhfV28te2z9JUAeWj61NRz",
+      "amount_sol": 0.196663034,
+      "time": "2026-11-04T16:39:47-05:00",
+      "slot": 465455864,
+      "signature": "5suYUCVXKaiynnay3n4KXbf9UzRp1i64psns6EZhn4Usuto38RF9KgVVCSBXx59J4CytARft9HbLVi24uhFFxm3n",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/GSj5ZX3MfcThqijyU6SaXnkhfV28te2z9JUAeWj61NRz/funding.json",
+      "tx_url": "https://solscan.io/tx/5suYUCVXKaiynnay3n4KXbf9UzRp1i64psns6EZhn4Usuto38RF9KgVVCSBXx59J4CytARft9HbLVi24uhFFxm3n",
+      "funder_label": "Relay: Solver",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/F7p3dFrjRTbtRp8FRF6qHLomXbKRBzpvBLjtQcfcgmNe"
+    },
+    {
+      "funder": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
+      "wallet": "HuBZojcqSxGBD6yYBEVmE9kAckpnXhgitNmFgNM6N9Tw",
+      "amount_sol": 0.245371,
+      "time": "2026-11-04T16:42:38-05:00",
+      "slot": 465456664,
+      "signature": "22d4pYmwaH35jwHAWnqup4nmHVH6TQS2Qb9hYorbzTFYa93xTcSjEGDd6fwQ4Cd9p71g1pugat8re869hBAVWNMk",
+      "method": "transfer",
+      "source": "https://pumpdata.fun/wallet/HuBZojcqSxGBD6yYBEVmE9kAckpnXhgitNmFgNM6N9Tw/funding.json",
+      "tx_url": "https://solscan.io/tx/22d4pYmwaH35jwHAWnqup4nmHVH6TQS2Qb9hYorbzTFYa93xTcSjEGDd6fwQ4Cd9p71g1pugat8re869hBAVWNMk",
+      "funder_label": "Gate Hot Wallet (u6PJ8)",
+      "stop_reason": "busy",
+      "funder_label_source": "https://solscan.io/account/u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w"
+    }
+  ],
+  "common_funders": [
+    {
+      "address": "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w",
+      "wallets_funded_in_sample": 2,
+      "label": "Gate Hot Wallet (u6PJ8)",
+      "same_owner_proven": false
+    }
+  ],
+  "warning": "Shared exchange withdrawals do not prove common ownership. Walks end at busy service wallets."
+}

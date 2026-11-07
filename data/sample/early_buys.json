@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-01-01T12:00:00-05:00",
+  "timezone": "America/New_York",
+  "status": "example",
+  "example": true,
+  "note": "FICTIONAL EXAMPLE. Not a real wallet, mint, or measurement. Not the research snapshot.",
+  "early_buys": [],
+  "requested_refresh_seconds": 1800,
+  "warning": "Example only."
+}

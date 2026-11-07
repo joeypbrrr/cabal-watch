@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-07T04:58:14-05:00",
+  "timezone": "America/New_York",
+  "status": "snapshot_only_monitor_not_running",
+  "alerts": [],
+  "rule": {
+    "flag": "possible_next_play",
+    "trigger": "Any screenshot-matched cluster wallet buys a previously unknown mint",
+    "excluded_mints": [
+      "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
+      "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump"
+    ],
+    "coach_mint_status": "unresolved; do not silently treat a name-only candidate as confirmed"
+  },
+  "warning": "No monitoring process is running; empty alerts are not evidence of no activity outside this snapshot."
+}

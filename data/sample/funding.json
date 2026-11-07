@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-01-01T12:00:00-05:00",
+  "timezone": "America/New_York",
+  "status": "example",
+  "example": true,
+  "note": "FICTIONAL EXAMPLE. Not a real wallet, mint, or measurement. Not the research snapshot.",
+  "edges": [
+    {
+      "funder": "EXAMPLEHUB1111111111111111111111111111111111",
+      "wallet": "EXAMPLEWALLET1111111111111111111111111111111",
+      "amount_sol": 1.0,
+      "time": "2026-01-01T12:00:00-05:00",
+      "slot": 1,
+      "signature": null,
+      "method": "transfer",
+      "source": "example",
+      "tx_url": null,
+      "funder_label": "Example exchange",
+      "funder_label_source": null,
+      "stop_reason": "busy"
+    }
+  ],
+  "common_funders": [
+    {
+      "address": "EXAMPLEHUB1111111111111111111111111111111111",
+      "wallets_funded_in_sample": 1,
+      "label": "Example exchange",
+      "same_owner_proven": false
+    }
+  ],
+  "warning": "Example only. An exchange wallet is not a cabal funder."
+}

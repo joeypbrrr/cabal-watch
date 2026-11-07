@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cabal Watch</title>
+  <meta name="description" content="Read-only view of a suspected Solana wallet cluster. No keys and no transactions.">
+  <meta name="theme-color" content="#121612">
+  <link rel="icon" href="favicon.svg">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top wrap">
+    <p class="eyebrow">Read-only research</p>
+    <h1>Cabal Watch</h1>
+    <p class="lede">A simple view of wallets tied to a suspected bundle. This page never asks for a seed phrase and never sends a transaction.</p>
+    <div class="top-meta">
+      <p id="file-time">Checking the files…</p>
+      <p>This page re-reads the files every 60 seconds.</p>
+      <button type="button" id="refresh">Refresh now</button>
+    </div>
+  </header>
+  <div id="banner" class="banner wrap" hidden></div>
+  <p id="live-status" class="sr" aria-live="polite"></p>
+  <nav class="jump wrap" aria-label="Sections">
+    <a href="#summary">Summary</a>
+    <a href="#wallets">Wallets</a>
+    <a href="#funding">Funding</a>
+    <a href="#bubbles">Holder map</a>
+    <a href="#transactions">Trades</a>
+    <a href="#alerts">Next play</a>
+    <a href="#early">New launches</a>
+    <a href="#paper">Paper</a>
+  </nav>
+  <main id="main">
+    <section id="summary" class="panel wrap">
+      <h2>Summary</h2>
+      <p class="explain">The large numbers are counted from the files. The 63-wallet and 44.65% figures are the owner’s screenshot claim, and they are labeled that way.</p>
+      <div class="stats" id="stats"></div>
+    </section>
+
+    <section id="wallets" class="panel wrap">
+      <h2>Wallets</h2>
+      <p class="explain">Watched wallets are the ones the monitor polls. A screenshot match lined up with the owner’s Bubblemaps picture. Other holders are not treated as the cluster.</p>
+      <div class="row" id="wallet-filters"></div>
+      <div class="cards" id="wallet-list"></div>
+    </section>
+
+    <section id="funding" class="panel wrap">
+      <h2>Funding trail</h2>
+      <p class="explain">Each line is the first SOL that arrived in that wallet. The walks stop at exchanges and busy services. No private common funder has been found, and a shared exchange wallet is not the cabal funder.</p>
+      <div id="funder-card"></div>
+      <div class="cards" id="funding-list"></div>
+      <div class="chart" id="funding-chart" style="margin-top:12px"></div>
+    </section>
+
+    <section id="bubbles" class="panel wrap">
+      <h2>Holder map</h2>
+      <p class="explain">Bubble size is the share of supply. Teal matched the screenshot. Gray is another holder. Amber is an exchange or busy service, not the cabal. Lines are the first SOL in, not proof of one owner. This map is rebuilt every 30 minutes.</p>
+      <div class="row" id="bubble-picks"></div>
+      <p class="note" id="bubble-updated"></p>
+      <p class="note" id="bubble-caption"></p>
+      <div class="split" style="margin-top:12px">
+        <div>
+          <div class="chart" id="bubble-chart"></div>
+          <p class="legend">
+            <span><i class="swatch teal"></i>Screenshot match</span>
+            <span><i class="swatch gray"></i>Other holder</span>
+            <span><i class="swatch amber"></i>Exchange or service</span>
+          </p>
+        </div>
+        <div class="detail" id="bubble-detail"><p class="empty">Tap a bubble to see the address.</p></div>
+      </div>
+      <div class="embed" id="bubble-embed"></div>
+    </section>
+
+    <section id="transactions" class="panel wrap">
+      <h2>Recent trades</h2>
+      <p class="explain">Pump.fun and PumpSwap trades for watched wallets. Times are shown in Eastern Time.</p>
+      <div class="row" id="tx-filter"></div>
+      <div class="cards" id="tx-list"></div>
+    </section>
+
+    <section id="alerts" class="panel wrap">
+      <h2>Possible next cabal play</h2>
+      <p class="explain">Flagged when a screenshot-matched wallet buys a token that is not COGE or the Democat candidate. Coach has no confirmed mint, so a coin is not skipped just because it is named Coach. The market cap is the one seen at detection.</p>
+      <div class="cards" id="alert-list"></div>
+    </section>
+
+    <section id="early" class="panel wrap">
+      <h2>New launches the cabal is in</h2>
+      <p class="explain">Tokens the matched wallets bought outside the known list. This list is rebuilt every 30 minutes. A buy does not mean the wallet was early.</p>
+      <p class="note" id="early-updated"></p>
+      <div class="cards" id="early-list"></div>
+    </section>
+
+    <section id="paper" class="panel wrap">
+      <h2>Paper tracking</h2>
+      <p class="explain">Simulated. Each row follows the market cap after a possible next play was flagged. It is not a trade, not dollars, and no order is sent.</p>
+      <div id="paper-summary"></div>
+      <div class="cards" id="paper-list"></div>
+    </section>
+  </main>
+  <footer class="foot wrap">
+    <p>Read-only. Public links go to Solscan, GMGN, DexScreener, and Bubblemaps. Cabal Watch does not hold keys and does not send transactions.</p>
+    <p>The tracking brief is in SPEC.md. The file shapes are in SCHEMA.md.</p>
+  </footer>
+  <script src="vendor/d3/d3.min.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>
