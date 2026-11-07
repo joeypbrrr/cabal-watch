@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:11:28-05:00",
+  "updated_at": "2026-11-07T06:54:24-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "wallets": [
@@ -14,7 +14,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8971,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/5PWa4xrVzNZr7eDPKany9mwdRCNk18jw3Yp6NTDRc4tK",
@@ -30,7 +30,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8875,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/FYUXYHg2DSigsSiQodXZpFuqG6AM41e75jhkfhdupyGJ",
@@ -46,7 +46,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8814,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/CiUgsxBvx9ZuQeQsXKXykiYSip4daqfdczeEtYMEMxr2",
@@ -62,7 +62,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8785,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/FR5Z3YKXmaiXUtZoddvCPBfYLT8TjxmHZe8ifz9dVF1A",
@@ -78,7 +78,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8514,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/8FtkU7T3PPHzA82G4oDzoug3V9qvYKyX6b2Sv3m3SiJj",
@@ -94,7 +94,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8498,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/9hW8QXn3yAjRUAjuuq85jSNHUqzUWbf5oXwjppCSiwkR",
@@ -110,7 +110,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8466,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
@@ -127,7 +127,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8454,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
@@ -144,7 +144,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8451,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/81z5et23bdypHwGeWhZv3c2Ebzt45cQVEfpVEVzMQvK4",
@@ -160,7 +160,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8363,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
@@ -177,7 +177,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8347,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/7r8Y7inTWiET6aXcT2RoSDNNdAVBmRfBcL5NK2begPdC",
@@ -193,7 +193,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.83,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/2B8VspBv9Zt5DTHzE87nqPXVZtJqpz3QyqUSVXb7mgfB",
@@ -209,7 +209,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8203,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
@@ -226,7 +226,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8143,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
@@ -243,7 +243,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8063,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/HVfk4hRzsvvDfxBYXFvGasJkufyiEtFq8T7ktgMC3B1w",
@@ -259,7 +259,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.8049,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/79H2eRaeHiy3hAewied1UcYWaQts3TYqaspkiUstb5DP",
@@ -275,7 +275,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.801,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/AAhsJqbmECcapgxbha54paqLzSCQQNUrPFhtX1LUyjrV",
@@ -291,7 +291,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.7977,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/9H27QM8fo4UJa3J4aCgtEdRN424eB6KvGNNYsuUsbn14",
@@ -307,7 +307,7 @@
           "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
           "symbol": "COGE",
           "pct_held": 0.788,
-          "as_of": "2026-11-07T06:11:29-05:00"
+          "as_of": "2026-11-07T06:54:25-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/GfdDDAdMKcN7rakwxEr3sbq66845FQeG61SSY1MHzXhS",
@@ -323,7 +323,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 2.1143,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/GGHJfHWsmcQhcpVHH8tY82K9AALivKo595cRTyTYQsLs",
@@ -339,7 +339,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 1.7399,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/F9vwcBVXBwgZQr1Wmh4iaPajCBx6Xxq6EnKbHZtPpWP8",
@@ -355,7 +355,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 1.6317,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/FoyQKCRrFckBWsUr85sJYPZARuDdBUBH7nao8ExWjLWW",
@@ -371,7 +371,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 1.0976,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/HgWdcArhyN29kzHrjNqrRm5c9yX9a73DA7faz8tXZBN1",
@@ -387,7 +387,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 1.0463,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/J147yU2sBUxXbNAAcAuX3s2Kb1DEJtQj2iM2cXQdQBxH",
@@ -403,7 +403,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.7927,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/J8FBiVc2ppg644AvinAaesaNmYkfijjweoxYBYsVQY8q",
@@ -419,7 +419,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.681,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/8CtTwJizWDHymtMiuqxFAiFWw8fWtP3dxJDt8hFeHh3a",
@@ -435,7 +435,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.503,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/FpKiNUVXqa6mtWiFYmYvshMEptUJiMUtpoaNmjzhYB9o",
@@ -451,7 +451,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.4577,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/Aoa8zSwKiqjDcbV21GPtGa96i2PZcJ2NraKCTajDnaJg",
@@ -467,7 +467,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.3724,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/31WxmD2rviBXJhqVQjttdZoiVJEn6vdQ3XBkd1cKfzbN",
@@ -483,7 +483,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.3408,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/HGJDWi55y1FP1n8tB7BFfti7oeVvMoqp7yCgHPHoF1xv",
@@ -499,7 +499,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.2763,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/7PEPKwmVpJnD6nooX6r22yrZZWXNgewy7ESEntrkbYmd",
@@ -515,7 +515,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.1633,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/HtupjZKQxTGZzmJtoWNHQPncM9MwjBm7V49DLqMf4KKA",
@@ -531,7 +531,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.1222,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/EysLmoEawWMJBnvQ9RzdH337znsvQKLWJEV4zDinUNeu",
@@ -547,7 +547,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.1194,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/Ft5vnnB4XsoSdsXNxjq987KK7h2nweKptWgMp7Asudsy",
@@ -563,7 +563,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.1004,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/Exj8dN4Xm5e5r4QWNN3LtqPmsS555d9Yc39iGsjBBkQv",
@@ -579,7 +579,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.0973,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/AbVChoPk7xWRZFvbNhQPLXVmnZEqQXai1VUmN4aXHieD",
@@ -595,7 +595,7 @@
           "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
           "symbol": "Democat",
           "pct_held": 0.0966,
-          "as_of": "2026-11-07T06:11:31-05:00"
+          "as_of": "2026-11-07T06:54:26-05:00"
         }
       ],
       "solscan_url": "https://solscan.io/account/9T5PTe1P634n8Zi67DTGc6b1BUaW1AP64NTJDqYGcc6d",
