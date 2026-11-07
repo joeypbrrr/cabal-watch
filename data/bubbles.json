@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-07T06:54:24-05:00",
+  "updated_at": "2026-11-07T10:20:38-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "tokens": [
     {
       "mint": "8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump",
       "symbol": "COGE",
-      "as_of": "2026-11-07T06:54:25-05:00",
+      "as_of": "2026-11-07T10:20:39-05:00",
       "holders": [
         {
           "address": "5PWa4xrVzNZr7eDPKany9mwdRCNk18jw3Yp6NTDRc4tK",
@@ -177,7 +177,7 @@
     {
       "mint": "9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump",
       "symbol": "Democat",
-      "as_of": "2026-11-07T06:54:26-05:00",
+      "as_of": "2026-11-07T10:20:40-05:00",
       "holders": [
         {
           "address": "GGHJfHWsmcQhcpVHH8tY82K9AALivKo595cRTyTYQsLs",
@@ -200,6 +200,12 @@
         {
           "address": "6UJUCuHMcAM5U2j72q7GkEaLh3aKukwy2oSBEmkzZtyY",
           "pct_supply": 1.2241,
+          "cluster_id": null,
+          "reported_cluster_id": null
+        },
+        {
+          "address": "31WxmD2rviBXJhqVQjttdZoiVJEn6vdQ3XBkd1cKfzbN",
+          "pct_supply": 1.1927,
           "cluster_id": null,
           "reported_cluster_id": null
         },
@@ -236,12 +242,6 @@
         {
           "address": "Aoa8zSwKiqjDcbV21GPtGa96i2PZcJ2NraKCTajDnaJg",
           "pct_supply": 0.4577,
-          "cluster_id": null,
-          "reported_cluster_id": null
-        },
-        {
-          "address": "31WxmD2rviBXJhqVQjttdZoiVJEn6vdQ3XBkd1cKfzbN",
-          "pct_supply": 0.3724,
           "cluster_id": null,
           "reported_cluster_id": null
         },
