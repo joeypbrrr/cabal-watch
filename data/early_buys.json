@@ -1,9 +1,23 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:12:07-05:00",
+  "updated_at": "2026-11-08T09:56:47-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
-  "early_buys": [],
+  "early_buys": [
+    {
+      "mint": "mhtvtMfxbZGpBurbGZVfLURjfYuLFKjaXQunauapump",
+      "symbol": null,
+      "first_buy_at": "2026-11-08T09:28:15-05:00",
+      "mcap_at_detection": null,
+      "cluster_wallet_count": 5,
+      "total_sol": 65.31,
+      "current_mcap": null,
+      "created_at": null,
+      "token_age_s": null,
+      "launch_slot": null,
+      "early_buyer_proven": false
+    }
+  ],
   "requested_refresh_seconds": 1800,
   "warning": "A newly seen buy is not proof the wallet was among the first buyers. early_buyer_proven stays false without a launch time."
 }

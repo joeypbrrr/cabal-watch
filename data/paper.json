@@ -1,9 +1,42 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-08T09:12:05-05:00",
+  "updated_at": "2026-11-08T09:56:46-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
-  "paper": [],
+  "paper": [
+    {
+      "alert_id": "possible_next_play:mhtvtMfxbZGpBurbGZVfLURjfYuLFKjaXQunauapump",
+      "mint": "mhtvtMfxbZGpBurbGZVfLURjfYuLFKjaXQunauapump",
+      "entry_at": "2026-11-08T09:28:15-05:00",
+      "entry_mcap": null,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-08T09:43:15-05:00",
+          "observed_at": "2026-11-08T09:54:52-05:00",
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "unavailable",
+          "lateness_s": 697,
+          "source": "live",
+          "source_age_s": 103
+        },
+        "1h": {
+          "due_at": "2026-11-08T10:28:15-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        },
+        "6h": {
+          "due_at": "2026-11-08T15:28:15-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        }
+      }
+    }
+  ],
   "model": {
     "basis": "market_cap_return_gross_proxy_not_executable_pnl",
     "formula": "(checkpoint_mcap / entry_mcap - 1) * 100",
