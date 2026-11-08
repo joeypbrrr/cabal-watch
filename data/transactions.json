@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:55:26-05:00",
+  "updated_at": "2026-11-08T15:25:46-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "transactions": [
@@ -2046,7 +2046,7 @@
       "source": "https://pumpdata.fun/trades/since.json"
     }
   ],
-  "as_of": "2026-11-08T14:55:27-05:00",
+  "as_of": "2026-11-08T15:25:47-05:00",
   "coverage": {
     "wallets_queried": [
       "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
@@ -2060,9 +2060,9 @@
       "HuBZojcqSxGBD6yYBEVmE9kAckpnXhgitNmFgNM6N9Tw"
     ],
     "since": "2026-11-08T13:44:50-05:00",
-    "retention_start": "2026-11-08T11:55:26-05:00",
+    "retention_start": "2026-11-08T12:25:46-05:00",
     "pumpfun_and_pumpswap_only": true,
-    "api_returned_count": 5,
+    "api_returned_count": 0,
     "more": false
   }
 }
