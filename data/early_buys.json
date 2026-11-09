@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-08T21:56:11-05:00",
+  "updated_at": "2026-11-09T04:10:03-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "early_buys": [
@@ -23,8 +23,8 @@
       "first_buy_at": "2026-11-08T09:58:40-05:00",
       "mcap_at_detection": 362219,
       "cluster_wallet_count": 5,
-      "total_sol": 241.24,
-      "current_mcap": 2687201,
+      "total_sol": 246.22,
+      "current_mcap": 1273069,
       "created_at": null,
       "token_age_s": null,
       "launch_slot": null,
