@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T14:30:06-05:00",
+  "updated_at": "2026-11-10T15:01:21-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -492,10 +492,13 @@
       "checkpoints": {
         "15m": {
           "due_at": "2026-11-10T14:41:54-05:00",
-          "observed_at": null,
-          "mcap": null,
-          "pnl_pct": null,
-          "status": "pending"
+          "observed_at": "2026-11-10T14:42:53-05:00",
+          "mcap": 942634,
+          "pnl_pct": 225.6728463733667,
+          "status": "observed",
+          "lateness_s": 59,
+          "source": "live",
+          "source_age_s": 1
         },
         "1h": {
           "due_at": "2026-11-10T15:26:54-05:00",
