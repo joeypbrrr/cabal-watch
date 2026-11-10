@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T16:12:57-05:00",
+  "updated_at": "2026-11-09T19:13:57-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -178,6 +178,73 @@
         },
         "6h": {
           "due_at": "2026-11-09T20:29:18-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        }
+      }
+    },
+    {
+      "alert_id": "possible_next_play:98kydTAP9FNkY4Pb4bVdyVyrEyGjSkAbWaVvoMospump",
+      "mint": "98kydTAP9FNkY4Pb4bVdyVyrEyGjSkAbWaVvoMospump",
+      "entry_at": "2026-11-09T17:53:59-05:00",
+      "entry_mcap": null,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-09T18:08:59-05:00",
+          "observed_at": "2026-11-09T18:57:18-05:00",
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "unavailable",
+          "lateness_s": 2899,
+          "source": "live",
+          "source_age_s": 995
+        },
+        "1h": {
+          "due_at": "2026-11-09T18:53:59-05:00",
+          "observed_at": "2026-11-09T18:57:18-05:00",
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "unavailable",
+          "lateness_s": 199,
+          "source": "live",
+          "source_age_s": 995
+        },
+        "6h": {
+          "due_at": "2026-11-09T23:53:59-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        }
+      }
+    },
+    {
+      "alert_id": "possible_next_play:F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump",
+      "mint": "F22QdNn7VYrtTgYDHEYcqQKVtDH8msh2xs6tnGxepump",
+      "entry_at": "2026-11-09T18:36:53-05:00",
+      "entry_mcap": 726366,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-09T18:51:53-05:00",
+          "observed_at": "2026-11-09T19:11:41-05:00",
+          "mcap": 726366,
+          "pnl_pct": 0.0,
+          "status": "observed",
+          "lateness_s": 1188,
+          "source": "live",
+          "source_age_s": 132
+        },
+        "1h": {
+          "due_at": "2026-11-09T19:36:53-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        },
+        "6h": {
+          "due_at": "2026-11-10T00:36:53-05:00",
           "observed_at": null,
           "mcap": null,
           "pnl_pct": null,
