@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T19:13:57-05:00",
+  "updated_at": "2026-11-10T03:04:48-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -108,10 +108,11 @@
         },
         "6h": {
           "due_at": "2026-11-09T19:29:30-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-10T03:04:43-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 27313
         }
       }
     },
@@ -143,10 +144,13 @@
         },
         "6h": {
           "due_at": "2026-11-09T20:07:08-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-09T16:16:38-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": -13830,
+          "source": "live",
+          "source_age_s": 38885
         }
       }
     },
@@ -178,10 +182,13 @@
         },
         "6h": {
           "due_at": "2026-11-09T20:29:18-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-10T00:15:43-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 13585,
+          "source": "live",
+          "source_age_s": 10140
         }
       }
     },
@@ -213,10 +220,13 @@
         },
         "6h": {
           "due_at": "2026-11-09T23:53:59-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-10T02:34:42-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 9643,
+          "source": "live",
+          "source_age_s": 1801
         }
       }
     },
@@ -238,13 +248,89 @@
         },
         "1h": {
           "due_at": "2026-11-09T19:36:53-05:00",
+          "observed_at": "2026-11-10T03:04:42-05:00",
+          "mcap": 1327460,
+          "pnl_pct": 82.7535980483668,
+          "status": "observed",
+          "lateness_s": 26869,
+          "source": "live",
+          "source_age_s": 1
+        },
+        "6h": {
+          "due_at": "2026-11-10T00:36:53-05:00",
+          "observed_at": "2026-11-10T03:04:42-05:00",
+          "mcap": 1327460,
+          "pnl_pct": 82.7535980483668,
+          "status": "observed",
+          "lateness_s": 8869,
+          "source": "live",
+          "source_age_s": 1
+        }
+      }
+    },
+    {
+      "alert_id": "possible_next_play:83eVWmGeyXf1BxSXTnMjnRm8gR7bPvoQERANzzgDpump",
+      "mint": "83eVWmGeyXf1BxSXTnMjnRm8gR7bPvoQERANzzgDpump",
+      "entry_at": "2026-11-10T00:23:51-05:00",
+      "entry_mcap": null,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-10T00:38:51-05:00",
+          "observed_at": "2026-11-10T01:05:52-05:00",
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "unavailable",
+          "lateness_s": 1621,
+          "source": "live",
+          "source_age_s": 7131
+        },
+        "1h": {
+          "due_at": "2026-11-10T01:23:51-05:00",
+          "observed_at": "2026-11-10T01:05:52-05:00",
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "unavailable",
+          "lateness_s": -1079,
+          "source": "live",
+          "source_age_s": 7131
+        },
+        "6h": {
+          "due_at": "2026-11-10T06:23:51-05:00",
           "observed_at": null,
           "mcap": null,
           "pnl_pct": null,
           "status": "pending"
+        }
+      }
+    },
+    {
+      "alert_id": "possible_next_play:A37gxYoF9u4yVf7PbzYF1A114NNqEyCTCtidZSRbpump",
+      "mint": "A37gxYoF9u4yVf7PbzYF1A114NNqEyCTCtidZSRbpump",
+      "entry_at": "2026-11-10T00:35:59-05:00",
+      "entry_mcap": 218578,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-10T00:50:59-05:00",
+          "observed_at": "2026-11-10T03:04:41-05:00",
+          "mcap": 218578,
+          "pnl_pct": 0.0,
+          "status": "observed",
+          "lateness_s": 8022,
+          "source": "live",
+          "source_age_s": 2
+        },
+        "1h": {
+          "due_at": "2026-11-10T01:35:59-05:00",
+          "observed_at": "2026-11-10T03:04:41-05:00",
+          "mcap": 218578,
+          "pnl_pct": 0.0,
+          "status": "observed",
+          "lateness_s": 5322,
+          "source": "live",
+          "source_age_s": 2
         },
         "6h": {
-          "due_at": "2026-11-10T00:36:53-05:00",
+          "due_at": "2026-11-10T06:35:59-05:00",
           "observed_at": null,
           "mcap": null,
           "pnl_pct": null,
