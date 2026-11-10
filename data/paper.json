@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T15:01:21-05:00",
+  "updated_at": "2026-11-10T15:38:27-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -372,10 +372,13 @@
         },
         "6h": {
           "due_at": "2026-11-10T15:20:12-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-10T11:40:36-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": -13176,
+          "source": "live",
+          "source_age_s": 14259
         }
       }
     },
@@ -502,10 +505,13 @@
         },
         "1h": {
           "due_at": "2026-11-10T15:26:54-05:00",
-          "observed_at": null,
-          "mcap": null,
-          "pnl_pct": null,
-          "status": "pending"
+          "observed_at": "2026-11-10T15:38:14-05:00",
+          "mcap": 1130398,
+          "pnl_pct": 290.5438740749442,
+          "status": "observed",
+          "lateness_s": 680,
+          "source": "live",
+          "source_age_s": 1
         },
         "6h": {
           "due_at": "2026-11-10T20:26:54-05:00",
