@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-11T11:15:31-05:00",
+  "updated_at": "2026-11-11T11:52:24-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "alerts": [
@@ -266,9 +266,13 @@
       "symbol": null,
       "detected_at": "2026-11-11T11:13:49-05:00",
       "mcap_at_detection": 246763,
-      "cluster_wallet_count": 1,
+      "cluster_wallet_count": 5,
       "cluster_wallets": [
-        "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF"
+        "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+        "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
+        "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
+        "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+        "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs"
       ],
       "source": "https://pumpdata.fun/trades/since.json"
     }
