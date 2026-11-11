@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:54:37-05:00",
+  "updated_at": "2026-11-10T19:36:14-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "early_buys": [
@@ -181,6 +181,19 @@
       "cluster_wallet_count": 5,
       "total_sol": 66.97,
       "current_mcap": null,
+      "created_at": null,
+      "token_age_s": null,
+      "launch_slot": null,
+      "early_buyer_proven": false
+    },
+    {
+      "mint": "8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump",
+      "symbol": null,
+      "first_buy_at": "2026-11-10T18:59:40-05:00",
+      "mcap_at_detection": 3131455,
+      "cluster_wallet_count": 5,
+      "total_sol": 42.54,
+      "current_mcap": 3271615,
       "created_at": null,
       "token_age_s": null,
       "launch_slot": null,

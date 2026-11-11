@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T17:54:36-05:00",
+  "updated_at": "2026-11-10T19:36:13-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -486,10 +486,13 @@
         },
         "6h": {
           "due_at": "2026-11-10T18:46:06-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-10T15:10:13-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": -12953,
+          "source": "live",
+          "source_age_s": 15953
         }
       }
     },
@@ -521,6 +524,38 @@
         },
         "6h": {
           "due_at": "2026-11-10T20:26:54-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        }
+      }
+    },
+    {
+      "alert_id": "possible_next_play:8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump",
+      "mint": "8yLBuP74RnFmjSRS8BGFebvyoTo8uiEjPB71h3Zgpump",
+      "entry_at": "2026-11-10T18:59:40-05:00",
+      "entry_mcap": 3131455,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-10T19:14:40-05:00",
+          "observed_at": "2026-11-10T19:36:04-05:00",
+          "mcap": 3131455,
+          "pnl_pct": 0.0,
+          "status": "observed",
+          "lateness_s": 1284,
+          "source": "live",
+          "source_age_s": 2
+        },
+        "1h": {
+          "due_at": "2026-11-10T19:59:40-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        },
+        "6h": {
+          "due_at": "2026-11-11T00:59:40-05:00",
           "observed_at": null,
           "mcap": null,
           "pnl_pct": null,
