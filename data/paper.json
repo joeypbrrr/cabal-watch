@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:36:13-05:00",
+  "updated_at": "2026-11-11T06:16:41-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -524,10 +524,13 @@
         },
         "6h": {
           "due_at": "2026-11-10T20:26:54-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-11T04:38:14-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 29480,
+          "source": "live",
+          "source_age_s": 5895
         }
       }
     },
@@ -549,17 +552,23 @@
         },
         "1h": {
           "due_at": "2026-11-10T19:59:40-05:00",
-          "observed_at": null,
-          "mcap": null,
-          "pnl_pct": null,
-          "status": "pending"
+          "observed_at": "2026-11-11T06:12:11-05:00",
+          "mcap": 8948280,
+          "pnl_pct": 185.7547050811843,
+          "status": "observed",
+          "lateness_s": 36751,
+          "source": "live",
+          "source_age_s": 258
         },
         "6h": {
           "due_at": "2026-11-11T00:59:40-05:00",
-          "observed_at": null,
-          "mcap": null,
-          "pnl_pct": null,
-          "status": "pending"
+          "observed_at": "2026-11-11T06:12:11-05:00",
+          "mcap": 8948280,
+          "pnl_pct": 185.7547050811843,
+          "status": "observed",
+          "lateness_s": 18751,
+          "source": "live",
+          "source_age_s": 258
         }
       }
     }
