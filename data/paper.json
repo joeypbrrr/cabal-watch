@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:51:48-05:00",
+  "updated_at": "2026-11-13T11:28:44-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -759,6 +759,76 @@
           "lateness_s": 8581,
           "source": "live",
           "source_age_s": 6979
+        }
+      }
+    },
+    {
+      "alert_id": "possible_next_play:3HNUBmfF33AkuYXB7vM9sP9UABJn3bwgZokjVeYDpump",
+      "mint": "3HNUBmfF33AkuYXB7vM9sP9UABJn3bwgZokjVeYDpump",
+      "entry_at": "2026-11-13T08:39:08-05:00",
+      "entry_mcap": null,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-13T08:54:08-05:00",
+          "observed_at": "2026-11-13T11:15:29-05:00",
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "unavailable",
+          "lateness_s": 8481,
+          "source": "live",
+          "source_age_s": 792
+        },
+        "1h": {
+          "due_at": "2026-11-13T09:39:08-05:00",
+          "observed_at": "2026-11-13T11:15:29-05:00",
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "unavailable",
+          "lateness_s": 5781,
+          "source": "live",
+          "source_age_s": 792
+        },
+        "6h": {
+          "due_at": "2026-11-13T14:39:08-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
+        }
+      }
+    },
+    {
+      "alert_id": "possible_next_play:F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump",
+      "mint": "F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump",
+      "entry_at": "2026-11-13T10:05:42-05:00",
+      "entry_mcap": 454975,
+      "checkpoints": {
+        "15m": {
+          "due_at": "2026-11-13T10:20:42-05:00",
+          "observed_at": "2026-11-13T11:28:40-05:00",
+          "mcap": 454975,
+          "pnl_pct": 0.0,
+          "status": "observed",
+          "lateness_s": 4078,
+          "source": "live",
+          "source_age_s": 1
+        },
+        "1h": {
+          "due_at": "2026-11-13T11:05:42-05:00",
+          "observed_at": "2026-11-13T11:28:40-05:00",
+          "mcap": 454975,
+          "pnl_pct": 0.0,
+          "status": "observed",
+          "lateness_s": 1378,
+          "source": "live",
+          "source_age_s": 1
+        },
+        "6h": {
+          "due_at": "2026-11-13T16:05:42-05:00",
+          "observed_at": null,
+          "mcap": null,
+          "pnl_pct": null,
+          "status": "pending"
         }
       }
     }

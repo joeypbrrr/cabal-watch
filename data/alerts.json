@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:51:47-05:00",
+  "updated_at": "2026-11-13T11:28:41-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "alerts": [
@@ -337,6 +337,40 @@
         "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
         "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
         "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF"
+      ],
+      "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "id": "possible_next_play:3HNUBmfF33AkuYXB7vM9sP9UABJn3bwgZokjVeYDpump",
+      "flag": "possible_next_play",
+      "mint": "3HNUBmfF33AkuYXB7vM9sP9UABJn3bwgZokjVeYDpump",
+      "symbol": null,
+      "detected_at": "2026-11-13T08:39:08-05:00",
+      "mcap_at_detection": null,
+      "cluster_wallet_count": 5,
+      "cluster_wallets": [
+        "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+        "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
+        "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
+        "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+        "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs"
+      ],
+      "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "id": "possible_next_play:F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump",
+      "flag": "possible_next_play",
+      "mint": "F37BKMyLrJxpHAmLcsQxza4f1uwPyCAmMmaeA2C7pump",
+      "symbol": null,
+      "detected_at": "2026-11-13T10:05:42-05:00",
+      "mcap_at_detection": 454975,
+      "cluster_wallet_count": 5,
+      "cluster_wallets": [
+        "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+        "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
+        "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+        "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+        "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK"
       ],
       "source": "https://pumpdata.fun/trades/since.json"
     }
