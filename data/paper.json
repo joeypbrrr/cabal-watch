@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T08:18:52-05:00",
+  "updated_at": "2026-11-16T11:58:39-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -1036,17 +1036,23 @@
       "checkpoints": {
         "15m": {
           "due_at": "2026-11-16T08:24:40-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-16T10:11:37-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 6417,
+          "source": "live",
+          "source_age_s": 6419
         },
         "1h": {
           "due_at": "2026-11-16T09:09:40-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-16T10:11:37-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 3717,
+          "source": "live",
+          "source_age_s": 6419
         },
         "6h": {
           "due_at": "2026-11-16T14:09:40-05:00",
