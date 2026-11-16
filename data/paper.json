@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T19:47:03-05:00",
+  "updated_at": "2026-11-16T01:22:55-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "paper": [
@@ -1008,17 +1008,23 @@
         },
         "1h": {
           "due_at": "2026-11-15T20:10:45-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-16T01:19:24-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 18519,
+          "source": "live",
+          "source_age_s": 203
         },
         "6h": {
           "due_at": "2026-11-16T01:10:45-05:00",
-          "observed_at": null,
+          "observed_at": "2026-11-16T01:19:24-05:00",
           "mcap": null,
           "pnl_pct": null,
-          "status": "pending"
+          "status": "unavailable",
+          "lateness_s": 519,
+          "source": "live",
+          "source_age_s": 203
         }
       }
     }
