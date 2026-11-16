@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T18:00:50-05:00",
+  "updated_at": "2026-11-15T19:47:02-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "transactions": [
@@ -19893,9 +19893,74 @@
       "side": "sell",
       "amount_sol": 0.01,
       "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "address": "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+      "signature": null,
+      "slot": 469925577,
+      "idx": 167,
+      "time": "2026-11-15T19:10:45-05:00",
+      "type": "trade",
+      "mint": "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
+      "symbol": null,
+      "side": "buy",
+      "amount_sol": 2.48,
+      "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "address": "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+      "signature": null,
+      "slot": 469925670,
+      "idx": 208,
+      "time": "2026-11-15T19:11:05-05:00",
+      "type": "trade",
+      "mint": "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
+      "symbol": null,
+      "side": "buy",
+      "amount_sol": 2.19,
+      "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "address": "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+      "signature": null,
+      "slot": 469925874,
+      "idx": 30,
+      "time": "2026-11-15T19:11:49-05:00",
+      "type": "trade",
+      "mint": "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
+      "symbol": null,
+      "side": "buy",
+      "amount_sol": 0.5,
+      "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "address": "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+      "signature": null,
+      "slot": 469925956,
+      "idx": 309,
+      "time": "2026-11-15T19:12:07-05:00",
+      "type": "trade",
+      "mint": "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
+      "symbol": null,
+      "side": "buy",
+      "amount_sol": 0.44,
+      "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "address": "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+      "signature": null,
+      "slot": 469933909,
+      "idx": 299,
+      "time": "2026-11-15T19:40:39-05:00",
+      "type": "trade",
+      "mint": "DTJbHA1ntTzsp6FXKRhwwD4E3CLcd5trkWhSV8ivpump",
+      "symbol": null,
+      "side": "sell",
+      "amount_sol": 0.18,
+      "source": "https://pumpdata.fun/trades/since.json"
     }
   ],
-  "as_of": "2026-11-15T18:00:51-05:00",
+  "as_of": "2026-11-15T19:47:02-05:00",
   "coverage": {
     "wallets_queried": [
       "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK",
@@ -19908,10 +19973,10 @@
       "GSj5ZX3MfcThqijyU6SaXnkhfV28te2z9JUAeWj61NRz",
       "HuBZojcqSxGBD6yYBEVmE9kAckpnXhgitNmFgNM6N9Tw"
     ],
-    "since": "2026-11-15T08:51:15-05:00",
-    "retention_start": "2026-11-15T15:00:50-05:00",
+    "since": "2026-11-15T19:40:40-05:00",
+    "retention_start": "2026-11-15T16:47:02-05:00",
     "pumpfun_and_pumpswap_only": true,
-    "api_returned_count": 0,
+    "api_returned_count": 5,
     "more": false
   }
 }
