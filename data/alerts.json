@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T07:37:22-05:00",
+  "updated_at": "2026-11-16T08:18:52-05:00",
   "timezone": "America/New_York",
   "status": "monitor_running",
   "alerts": [
@@ -448,6 +448,23 @@
       "cluster_wallets": [
         "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
         "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs"
+      ],
+      "source": "https://pumpdata.fun/trades/since.json"
+    },
+    {
+      "id": "possible_next_play:AnvhfTgZXdQk3vLmoUxDtYnTb7tpjQkXpFTHDXYFpump",
+      "flag": "possible_next_play",
+      "mint": "AnvhfTgZXdQk3vLmoUxDtYnTb7tpjQkXpFTHDXYFpump",
+      "symbol": null,
+      "detected_at": "2026-11-16T08:09:40-05:00",
+      "mcap_at_detection": 350741,
+      "cluster_wallet_count": 5,
+      "cluster_wallets": [
+        "AM3yzg4QAfATjKsJHwTCcaVByhvYc2ZgjEA35qeF2Xvs",
+        "7t4FdQBiFuxhRfsCBYxU1TpSxw2SbLFE9UepgeQrfhf7",
+        "EGK1Gx9GGKojZjmUHk54sMUw4BELTBnGeYtF5KSShJF",
+        "2auNeha9ZJTrNcUGLdAoHgbnpVJsfE2sAH4mqpUXvcbB",
+        "5wpeY1mo19QsfjFsrsp774gTJdApRtkexTspbYwSnFjK"
       ],
       "source": "https://pumpdata.fun/trades/since.json"
     }
